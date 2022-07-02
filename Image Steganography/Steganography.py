@@ -3,8 +3,6 @@
 # PIL module is used to extract
 # pixels of image and modify it
 import time
-
-
 from PIL import Image
 
 # Convert encoding data into 8-bit binary
@@ -69,7 +67,7 @@ def modPix(pix, data):
 
 def encode_enc(newimg, data):
 	
-	w = newimg.size[0]
+	w = newimg.size[0] #w is width
 	(x, y) = (0, 0)
 
 	for pixel in modPix(newimg.getdata(), data):

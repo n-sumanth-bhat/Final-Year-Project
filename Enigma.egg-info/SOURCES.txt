@@ -1,0 +1,7 @@
+setup.py
+Enigma.egg-info/PKG-INFO
+Enigma.egg-info/SOURCES.txt
+Enigma.egg-info/dependency_links.txt
+Enigma.egg-info/entry_points.txt
+Enigma.egg-info/requires.txt
+Enigma.egg-info/top_level.txt

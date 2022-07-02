@@ -1,0 +1,4 @@
+click
+pyInquirer
+pywin32
+rich == 12.4.4
