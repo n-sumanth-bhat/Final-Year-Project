@@ -7,7 +7,9 @@ setup(
     install_requires = [
         'click',
         'pyInquirer',
-        'pywin32'
+        'pywin32',
+        'rich',
+        'colorama'
     ],
     entry_points = '''
     [console_scripts]

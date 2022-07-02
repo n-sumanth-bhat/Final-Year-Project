@@ -1,4 +1,3 @@
-from dbm import whichdb
 import os
 from os import path
 import time

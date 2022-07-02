@@ -1,5 +1,4 @@
 import click
-import pyfiglet
 import os
 from colorama import Fore,Style
 import sys
