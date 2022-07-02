@@ -95,6 +95,6 @@ We would like to thank and dedicate this project to all the instructors who are 
 
 ## Feedback
 
-If you have any feedback or queries, please reach out to us.
+If you have any feedback or queries, please reach out to
 - [Sumanth N](mailto:nsumanthbhat@gmail.com)
 
